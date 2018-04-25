@@ -127,6 +127,4 @@ As developers we spend more time reading rather than writing code, so it's impor
 
 * [Video Review- Object Properties](https://www.youtube.com/watch?v=ab11lJJKm8M) 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-oo-macros-readme'>Object Accessors</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/ruby-oo-macros-readme'>Object Accessors</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Macros and Abstraction</p>

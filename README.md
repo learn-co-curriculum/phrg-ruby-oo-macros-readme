@@ -127,4 +127,7 @@ As developers we spend more time reading rather than writing code, so it's impor
 
 * [Video Review- Object Properties](https://www.youtube.com/watch?v=ab11lJJKm8M) 
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-oo-macros-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-oo-macros-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Macros and Abstraction</p>
